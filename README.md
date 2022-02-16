@@ -16,6 +16,8 @@ With a resulting r-squared value of 0.7149, the linear model does predict MechaC
 The current manufacturing data meets the design spec not to exceed 100PSI. The variation for all lots is 62.29 PSI, well within the 100 PSI variance. 
 However, for individual lots, we see the full picture. Lots 1 and 2 have an extremely low variance at 0.97 and 7.47 respectively, well within the variance requirement. Lot 3, though, shows a variance of 170 PSI, outside of the requirement. This has clearly skewed the all-lot variance data. 
 
+<img src = "supporting documents/summary.png">
+
 <img src = "supporting documents/lot_summary.png">
 
 ## T-Tests on Suspension Coils
